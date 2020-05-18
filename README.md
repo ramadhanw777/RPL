@@ -52,7 +52,10 @@ Nama Anggota Kelompok :
 
 
 ## Gantt chart
+[Link Gantt chart](https://prod.teamgantt.com/gantt/schedule/?ids=2122781#&ids=2122781&user=&custom=&company=&hide_completed=false&date_filter=&color_filter=)
 
 ## ERD
+![epkia](https://user-images.githubusercontent.com/60084504/82163687-f5a6e400-98d6-11ea-9409-09e168836ca7.png)
+
 
 ## Hasil implementasi perangkat lunak
