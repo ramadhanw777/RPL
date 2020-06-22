@@ -20,7 +20,10 @@ Nama Anggota Kelompok :
 ## Analisis user (user profile)
   Orang yang akan menggunakan aplikasi ini ia lah pekerja kesehatan, ibu hamil,ibu menyusui,wanita dan Dinas Kesehatan (admin).
 ## User story 
-
+  * Sebagai Masyarakat bisa mencari tips kesehatan
+  * Sebagai Masyarakat bisa memberikan informasi ke tenaga medis
+  * Sebagai Masyarakat bisa mencari tempat bersalin
+  * sebagai Tenaga medis bisa mengisi jawaban konsultasi
 ## Use case diagram
 ![use case projek](https://user-images.githubusercontent.com/60084504/82154836-ca060880-989a-11ea-910f-52d0a0caff1b.jpg)
 
@@ -59,3 +62,22 @@ Nama Anggota Kelompok :
 
 
 ## Hasil implementasi perangkat lunak
+![1](https://user-images.githubusercontent.com/60084504/85273793-47c7c000-b4a8-11ea-8140-b7b57f6382e6.jpg)
+
+![2](https://user-images.githubusercontent.com/60084504/85273834-544c1880-b4a8-11ea-9458-63446ec1dd99.jpg)
+
+![3](https://user-images.githubusercontent.com/60084504/85273866-5e6e1700-b4a8-11ea-9c72-cbbb59f4fd13.jpg)
+
+![4](https://user-images.githubusercontent.com/60084504/85273874-60d07100-b4a8-11ea-982e-a556edc74eb2.jpg)
+
+![5](https://user-images.githubusercontent.com/60084504/85273910-6ded6000-b4a8-11ea-8c62-269586c7268a.jpg)
+
+![6](https://user-images.githubusercontent.com/60084504/85273913-6e85f680-b4a8-11ea-852c-1be7a217a287.jpg)
+
+
+![7](https://user-images.githubusercontent.com/60084504/85273915-6f1e8d00-b4a8-11ea-9744-902cbad90a6f.jpg)
+
+![8](https://user-images.githubusercontent.com/60084504/85273919-6fb72380-b4a8-11ea-9c5c-ba42f170fba5.jpg)
+
+
+![9](https://user-images.githubusercontent.com/60084504/85273920-7180e700-b4a8-11ea-85ed-2bef542806f5.jpg)
