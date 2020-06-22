@@ -13,6 +13,10 @@ Nama Anggota Kelompok :
   Untuk mempercepat pendaatan ibu hamil, ibu nifas, bayi dan balita untuk menekan angka kematian ibu dan angka kematian anak.
   
 ## Ruang Lingkup
+ * Aplikasi untuk Ibu Hamil
+    * aplikasi ini untuk mempermudah masyarakat untuk mendapatkan fasilitas kesehatan
+  * Aplikasi untuk tenaga medis
+    * Aplikasi ini untuk mempermudah tenaga medis dalam menanggapi segala informasi dari masyarakat 
 
 ## Deskripsi Pernagkat lunak
   Aplikasi ini menyediakan pencatatan kesehatan ibu hamil, ibu nifas, ibu menyusui, bayi dan balita yang akan dilakukan bidan desa dan tenaga medis lainnya  untuk menekan bayi lahir cacat, ibu hamil kekurangan gizi, angka kematian ibu dan angka kematian bayi dan busung lapar.
